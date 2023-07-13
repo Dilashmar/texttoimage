@@ -7,7 +7,7 @@ text = input("Enter the text to be used for the image: ")
 filename = input("Enter a filename for the output image (without extension): ")
 
 # Set the font to be used for the text
-font = ImageFont.truetype("arial.ttf", 48)
+font = ImageFont.truetype("Arial.ttf", 48)
 
 # Set the dimensions of the image
 width = 400
